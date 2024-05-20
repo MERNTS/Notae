@@ -1,7 +1,6 @@
 {
     "workbench.tree.indent": 19,
     "files.exclude": {
-        "**/node_modules": true,
         "**/*.cjs": true,
         "**/*.gitignore": true       
     }
